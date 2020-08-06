@@ -38,7 +38,7 @@ class Shoe
       puts "tattered"
     end
     
-    def
+    #def
   end
   
       
