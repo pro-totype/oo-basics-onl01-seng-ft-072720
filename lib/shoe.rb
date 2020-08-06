@@ -35,10 +35,10 @@ class Shoe
     end
     
     def condition
-      puts "old"
+      puts "tattered"
     end
     
-    
+    def
   end
   
       
