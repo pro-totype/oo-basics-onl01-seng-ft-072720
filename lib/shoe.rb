@@ -34,9 +34,10 @@ class Shoe
       @material
     end
     
-    def condition
-      puts "new"
+    def condition=(condition)
+      puts "old"
     end
+    
     
   end
   
