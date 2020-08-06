@@ -33,7 +33,8 @@ class Shoe
       @material
     end
     
-    def condition=()
+    def condition
+      puts "old"
       
       
       
