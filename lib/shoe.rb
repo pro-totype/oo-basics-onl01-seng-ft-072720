@@ -34,7 +34,7 @@ class Shoe
     end
     
     def condition
-      puts "old"
+      puts "new"
       
       
       
