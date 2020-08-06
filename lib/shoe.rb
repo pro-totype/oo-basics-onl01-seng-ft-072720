@@ -42,8 +42,9 @@ class Shoe
       @condition
     end
     
-    def cobble(cobble)
-      
+    def cobble
+      puts "new"
+    end
       
     #def
   end
