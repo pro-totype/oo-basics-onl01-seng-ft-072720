@@ -2,12 +2,12 @@
 class Shoe
   
     def brand(brnad)
-      @shoe = brand
+      @brand = brand
       
     end
     
-    def shoe
-      @shoe
+    def brand
+      @brand
     end
     
     def color=(color)
