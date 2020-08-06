@@ -1,8 +1,9 @@
 # Make your shoe class here!
 class Shoe
   
-    def shoe(shoe)
-      @shoe = shoe
+    def brand(brnad)
+      @shoe = brand
+      
     end
     
     def shoe
