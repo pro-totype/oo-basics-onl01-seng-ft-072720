@@ -46,7 +46,6 @@ class Shoe
       puts "new"
     end
       
-    #def
   end
   
       
